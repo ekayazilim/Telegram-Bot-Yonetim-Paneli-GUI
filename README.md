@@ -122,12 +122,6 @@ Uygulama açıldıktan sonra:
 
 ---
 
-## ⚠️ Güvenlik Notu
-
-* Bot token bilgilerinizi public repolarda paylaşmayınız
-* Açık kaynak paylaşım yapılacaksa `.gitignore` kullanılması önerilir
-
----
 
 ## 📜 Lisans
 
