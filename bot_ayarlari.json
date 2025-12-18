@@ -1,0 +1,10 @@
+{
+  "mesaj_listesi": [
+    "hello",
+    "Merhaba dünya",
+    "Eka Yazılım ve Bilişim Sistemleri"
+  ],
+  "zamanlanmis_mesajlar": [],
+  "telegram_token": "ekayazilim",
+  "hedef_mesaj_id": "-ekayazilim"
+}
