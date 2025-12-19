@@ -30,8 +30,8 @@ class TelegramBotGUI:
         self.mesaj_listesi = []
         self.zamanlanmis_mesajlar = []
         self.bot_calisiyor = False
-        self.telegram_token = "8179822680:AAEeiRsg0vl-0qUIlShVejyBcKRNKYJf1uU"
-        self.hedef_mesaj_id = "4087355"
+        self.telegram_token = "ekayazilim"
+        self.hedef_mesaj_id = "ekayazilim"
         
         self.ayarlari_yukle()
         self.arayuz_olustur()
@@ -668,4 +668,5 @@ Mesaj ID Nasıl Bulunur:
 
 if __name__ == '__main__':
     uygulama = TelegramBotGUI()
+
     uygulama.calistir()
